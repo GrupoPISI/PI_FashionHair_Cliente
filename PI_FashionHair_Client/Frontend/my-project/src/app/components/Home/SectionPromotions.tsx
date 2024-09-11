@@ -1,7 +1,7 @@
 import CardPromotion from "./CardPromotion";
-import ImageHair from "../../../../public/images/image-hairstyle.png";
-import ImageMakeup from "../../../../public/images/image-makeup.png";
-import ImageNails from "../../../../public/images/image-nails.png";
+import ImageHair from "../../../../public/images/Hairs/image-hairstyle.png";
+import ImageMakeup from "../../../../public/images/Makeups/image-makeup.png";
+import ImageNails from "../../../../public/images/Nails/image-nails.png";
 
 export default function SectionPromotions() {
     return (

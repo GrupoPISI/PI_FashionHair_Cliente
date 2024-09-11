@@ -20,7 +20,7 @@ export default function Header() {
                 <Link href={`/`} className="text-PretoSuave text-lg font-Lato font-normal hover:text-CoralVibrante">
                     Inicio
                 </Link>
-                <Link href={`/`} className="text-PretoSuave text-lg font-Lato font-normal hover:text-CoralVibrante">
+                <Link href={`/servicos`} className="text-PretoSuave text-lg font-Lato font-normal hover:text-CoralVibrante">
                     Serviços
                 </Link>
                 <Link href={`/`} className="text-PretoSuave text-lg font-Lato font-normal hover:text-CoralVibrante">
