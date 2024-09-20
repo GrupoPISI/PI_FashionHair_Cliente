@@ -24,9 +24,6 @@ export default function Header() {
                     Serviços
                 </Link>
                 <Link href={`/`} className="text-PretoSuave text-lg font-Lato font-normal hover:text-CoralVibrante">
-                    Contato
-                </Link>
-                <Link href={`/`} className="text-PretoSuave text-lg font-Lato font-normal hover:text-CoralVibrante">
                     Sobre
                 </Link>
             </nav>

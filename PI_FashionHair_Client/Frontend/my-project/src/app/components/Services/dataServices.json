@@ -9,6 +9,8 @@
         "time": "1hr : 10min",
         "date": "Todos os dias",
         "price": "R$ 100,00",
+        "note": "4.5",
+        "reviews": "25",
         "payment": []
     },
     {
@@ -21,6 +23,8 @@
         "time": "1hr : 10min",
         "date": "Todos os dias",
         "price": "R$ 100,00",
+        "note": "4.5",
+        "reviews": "25",
         "payment": []
     },
     {
@@ -33,6 +37,8 @@
         "time": "1hr : 10min",
         "date": "Todos os dias",
         "price": "R$ 100,00",
+        "note": "4.5",
+        "reviews": "25",
         "payment": []
     },
     {
@@ -45,6 +51,8 @@
         "time": "1hr : 10min",
         "date": "Todos os dias",
         "price": "R$ 100,00",
+        "note": "4.5",
+        "reviews": "25",
         "payment": []
     },
     {
@@ -57,6 +65,8 @@
         "time": "1hr : 10min",
         "date": "Todos os dias",
         "price": "R$ 100,00",
+        "note": "4.5",
+        "reviews": "25",
         "payment": []
     },
     {
@@ -69,6 +79,8 @@
         "time": "1hr : 10min",
         "date": "Todos os dias",
         "price": "R$ 100,00",
+        "note": "4.5",
+        "reviews": "25",
         "payment": []
     },
     {
@@ -81,16 +93,8 @@
         "time": "1hr : 10min",
         "date": "Todos os dias",
         "price": "R$ 100,00",
-        "payment": []
-    },
-    {
-        "id": "8",
-        "image": [],
-        "name": "Pedicure",
-        "description": "O serviço de pedicure é focado na saúde e estética dos seus pés. Realizamos desde a limpeza profunda até a esfoliação, corte e pintura das unhas, além de cuidados especiais para manter a pele macia e renovada. Seus pés ficarão relaxados, bem tratados e com uma aparência impecável.",
-        "time": "1hr : 10min",
-        "date": "Todos os dias",
-        "price": "R$ 100,00",
+        "note": "4.5",
+        "reviews": "25",
         "payment": []
     }
 ]
